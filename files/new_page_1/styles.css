@@ -80,3 +80,41 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+body.a {  background-color:rgba(255, 255, 255, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:750px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#u3.a {
+  position:absolute;
+  left:0px;
+  top:0px;
+}
+#u4.a {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:750px;
+  height:2320px;
+}
+#u5.a {
+}
+#u5_img.a {
+}
+#u6.a {
+}
+#u4_state0.a {
+  background-color:rgba(255, 255, 255, 0);
+  background-image:none;
+}
+#u3_state0.a {
+  position:relative;
+  left:0px;
+  top:0px;
+  background-color:rgba(255, 255, 255, 0);
+  background-image:none;
+}
