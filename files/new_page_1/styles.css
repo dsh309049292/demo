@@ -93,8 +93,8 @@
   position:absolute;
   left:16px;
   top:70px;
-  width:70px;
-  height:90px;
+  width:74px;
+  height:100px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }
@@ -127,8 +127,6 @@ body.a {  background-color:rgba(255, 255, 255, 1);
 }
 #u6.a {
 }
-#u7.a {
-}
 #u4_state0.a {
   background-color:rgba(255, 255, 255, 0);
   background-image:none;
@@ -136,4 +134,6 @@ body.a {  background-color:rgba(255, 255, 255, 1);
 #u3_state0.a {
   background-color:rgba(255, 255, 255, 0);
   background-image:none;
+}
+#u7.a {
 }
