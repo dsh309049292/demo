@@ -7,23 +7,7 @@
   text-align:center;
   line-height:normal;
 }
-.box_1 {
-}
-.box_2 {
-}
-.box_3 {
-}
-.ellipse {
-}
-.image {
-}
-.button {
-}
-.primary_button {
-  color:#FFFFFF;
-}
-.link_button {
-  color:#169BD5;
+._图片 {
 }
 ._一级标题 {
   font-family:'ArialMT', 'Arial';
@@ -69,17 +53,37 @@
 ._文本段落 {
   text-align:left;
 }
-.radio_button {
+._自由编辑 {
+}
+.box_2 {
+}
+.box_3 {
+}
+.text_field {
+  color:#000000;
   text-align:left;
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.icon {
+}
+.ellipse {
+}
+.button {
 }
 .marker {
   color:#FFFFFF;
 }
-._自由编辑 {
-}
-.icon {
-}
 .flow_shape {
+}
+.box_1 {
+}
+.link_button {
+  color:#169BD5;
+}
+.radio_button {
+  text-align:left;
 }
 .label {
   font-size:14px;
@@ -90,10 +94,6 @@
 }
 .line {
 }
-.text_field {
-  color:#000000;
-  text-align:left;
-}
-._图片 {
+._图片1 {
   color:#000000;
 }
