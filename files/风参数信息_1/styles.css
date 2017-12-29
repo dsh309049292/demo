@@ -61,3 +61,29 @@
   width:1px;
   height:1px;
 }
+body.a {  background-color:rgba(255, 255, 255, 1);
+  background-image:none;
+  position:relative;
+  left:-0px;
+  width:1080px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+#u569.a {
+}
+#u569_img.a {
+}
+#u570.a {
+}
+#u571.a {
+  position:absolute;
+  left:0px;
+  top:49px;
+  width:129px;
+  height:170px;
+}
+#u571_state0.a {
+  background-color:rgba(255, 255, 255, 0);
+  background-image:none;
+}
