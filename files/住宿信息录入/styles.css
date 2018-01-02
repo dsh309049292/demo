@@ -37,9 +37,9 @@
 #u71 {
   position:absolute;
   left:0px;
-  top:64px;
+  top:21px;
   width:185px;
-  height:146px;
+  height:189px;
   overflow:hidden;
 }
 #u71_state0 {
@@ -47,7 +47,7 @@
   left:0px;
   top:0px;
   width:185px;
-  height:146px;
+  height:189px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
   -ms-overflow-y:hidden;
@@ -492,9 +492,9 @@ body.a {  background-color:rgba(255, 255, 255, 1);
 #u71.a {
   position:absolute;
   left:0px;
-  top:64px;
+  top:21px;
   width:185px;
-  height:146px;
+  height:189px;
 }
 #u71_state0.a {
   background-color:rgba(255, 255, 255, 0);
