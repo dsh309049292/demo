@@ -19,6 +19,7 @@
   width:1080px;
   height:1920px;
   overflow:hidden;
+  touch-action:none;
 }
 #u692_state0 {
   position:absolute;
@@ -46,7 +47,6 @@
   width:1080px;
   height:4148px;
   overflow:hidden;
-  touch-action:none;
 }
 #u693_state0 {
   position:absolute;
