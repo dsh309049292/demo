@@ -7,8 +7,6 @@
   text-align:center;
   line-height:normal;
 }
-.box_1 {
-}
 ._图片 {
 }
 ._一级标题 {
@@ -48,4 +46,52 @@
 }
 ._文本段落 {
   text-align:left;
+}
+._自由编辑 {
+}
+.box_2 {
+}
+.box_3 {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.icon {
+}
+.ellipse {
+}
+.button {
+}
+.marker {
+  color:#FFFFFF;
+}
+.flow_shape {
+}
+.box_1 {
+}
+.link_button {
+  color:#169BD5;
+}
+.radio_button {
+  text-align:left;
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+._文本段落1 {
+  text-align:left;
+}
+.line {
+}
+._图片1 {
+  color:#000000;
+}
+.arrow {
+}
+.connector {
 }

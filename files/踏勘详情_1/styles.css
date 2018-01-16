@@ -1,0 +1,253 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:relative;
+  left:-0px;
+  width:1080px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u676 {
+  position:absolute;
+  left:0px;
+  top:70px;
+  width:148px;
+  height:160px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u677 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1080px;
+  height:1920px;
+  overflow:hidden;
+}
+#u677_state0 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1080px;
+  height:1920px;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
+  background-image:none;
+}
+#u677_state0_content {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u678 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1080px;
+  height:5855px;
+  overflow:hidden;
+  touch-action:none;
+}
+#u678_state0 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1080px;
+  height:5855px;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
+  background-image:none;
+}
+#u678_state0_content {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u679_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1080px;
+  height:5758px;
+}
+#u679 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1080px;
+  height:5758px;
+}
+#u680 {
+  position:absolute;
+  left:2px;
+  top:2871px;
+  width:1076px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u681 {
+  position:absolute;
+  left:136px;
+  top:1133px;
+  width:300px;
+  height:170px;
+  overflow:hidden;
+}
+#u681_state0 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:300px;
+  height:170px;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
+  background-image:none;
+}
+#u681_state0_content {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u682 {
+  position:absolute;
+  left:218px;
+  top:1285px;
+  width:300px;
+  height:170px;
+  overflow:hidden;
+}
+#u682_state0 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:300px;
+  height:170px;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
+  background-image:none;
+}
+#u682_state0_content {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u683 {
+  position:absolute;
+  left:279px;
+  top:1313px;
+  width:300px;
+  height:170px;
+  overflow:hidden;
+}
+#u683_state0 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:300px;
+  height:170px;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
+  background-image:none;
+}
+#u683_state0_content {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+body.a {  background-color:rgba(255, 255, 255, 1);
+  background-image:none;
+  position:relative;
+  left:-0px;
+  width:1080px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+#u676.a {
+}
+#u677.a {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1080px;
+  height:1920px;
+}
+#u678.a {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1080px;
+  height:5855px;
+}
+#u679.a {
+}
+#u679_img.a {
+}
+#u680.a {
+}
+#u678_state0.a {
+  background-color:rgba(255, 255, 255, 0);
+  background-image:none;
+}
+#u677_state0.a {
+  background-color:rgba(255, 255, 255, 0);
+  background-image:none;
+}
+#u681.a {
+  position:absolute;
+  left:136px;
+  top:1133px;
+  width:300px;
+  height:170px;
+}
+#u681_state0.a {
+  background-color:rgba(255, 255, 255, 0);
+  background-image:none;
+}
+#u682.a {
+  position:absolute;
+  left:218px;
+  top:1285px;
+  width:300px;
+  height:170px;
+}
+#u682_state0.a {
+  background-color:rgba(255, 255, 255, 0);
+  background-image:none;
+}
+#u683.a {
+  position:absolute;
+  left:279px;
+  top:1313px;
+  width:300px;
+  height:170px;
+}
+#u683_state0.a {
+  background-color:rgba(255, 255, 255, 0);
+  background-image:none;
+}
