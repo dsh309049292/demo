@@ -12,21 +12,21 @@
   position:absolute;
   z-index:0;
 }
-#u517_img {
+#u714_img {
   position:absolute;
   left:0px;
   top:0px;
   width:1080px;
   height:1920px;
 }
-#u517 {
+#u714 {
   position:absolute;
   left:0px;
   top:0px;
   width:1080px;
   height:1920px;
 }
-#u518 {
+#u715 {
   position:absolute;
   left:2px;
   top:952px;
@@ -34,7 +34,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u519 {
+#u716 {
   position:absolute;
   left:36px;
   top:110px;
@@ -42,7 +42,7 @@
   height:90px;
   overflow:hidden;
 }
-#u519_state0 {
+#u716_state0 {
   position:absolute;
   left:0px;
   top:0px;
@@ -54,14 +54,14 @@
   overflow-y:hidden;
   background-image:none;
 }
-#u519_state0_content {
+#u716_state0_content {
   position:absolute;
   left:0px;
   top:0px;
   width:1px;
   height:1px;
 }
-#u520 {
+#u717 {
   position:absolute;
   left:968px;
   top:110px;
@@ -69,7 +69,7 @@
   height:90px;
   overflow:hidden;
 }
-#u520_state0 {
+#u717_state0 {
   position:absolute;
   left:0px;
   top:0px;
@@ -81,14 +81,14 @@
   overflow-y:hidden;
   background-image:none;
 }
-#u520_state0_content {
+#u717_state0_content {
   position:absolute;
   left:0px;
   top:0px;
   width:1px;
   height:1px;
 }
-#u521 {
+#u718 {
   position:absolute;
   left:0px;
   top:814px;
@@ -96,7 +96,7 @@
   height:370px;
   overflow:hidden;
 }
-#u521_state0 {
+#u718_state0 {
   position:absolute;
   left:0px;
   top:0px;
@@ -108,7 +108,7 @@
   overflow-y:hidden;
   background-image:none;
 }
-#u521_state0_content {
+#u718_state0_content {
   position:absolute;
   left:0px;
   top:0px;
@@ -124,42 +124,42 @@ body.a {  background-color:rgba(255, 255, 255, 1);
   margin-right:auto;
   text-align:left;
 }
-#u517.a {
+#u714.a {
 }
-#u517_img.a {
+#u714_img.a {
 }
-#u518.a {
+#u715.a {
 }
-#u519.a {
+#u716.a {
   position:absolute;
   left:36px;
   top:110px;
   width:80px;
   height:90px;
 }
-#u519_state0.a {
+#u716_state0.a {
   background-color:rgba(255, 255, 255, 0);
   background-image:none;
 }
-#u520.a {
+#u717.a {
   position:absolute;
   left:968px;
   top:110px;
   width:80px;
   height:90px;
 }
-#u520_state0.a {
+#u717_state0.a {
   background-color:rgba(255, 255, 255, 0);
   background-image:none;
 }
-#u521.a {
+#u718.a {
   position:absolute;
   left:0px;
   top:814px;
   width:1080px;
   height:370px;
 }
-#u521_state0.a {
+#u718_state0.a {
   background-color:rgba(255, 255, 255, 0);
   background-image:none;
 }
