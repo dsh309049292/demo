@@ -37,33 +37,11 @@
 #u367 {
   position:absolute;
   left:0px;
-  top:50px;
-  width:140px;
-  height:168px;
+  top:19px;
+  width:192px;
+  height:199px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
-}
-#u368_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:2px;
-  height:2803px;
-}
-#u368 {
-  position:absolute;
-  left:540px;
-  top:540px;
-  width:1px;
-  height:2802px;
-}
-#u369 {
-  position:absolute;
-  left:2px;
-  top:1393px;
-  width:1px;
-  visibility:hidden;
-  word-wrap:break-word;
 }
 body.a {  background-color:rgba(255, 255, 255, 1);
   background-image:none;
@@ -81,10 +59,4 @@ body.a {  background-color:rgba(255, 255, 255, 1);
 #u366.a {
 }
 #u367.a {
-}
-#u368.a {
-}
-#u368_img.a {
-}
-#u369.a {
 }

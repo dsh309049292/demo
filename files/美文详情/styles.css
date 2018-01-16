@@ -37,9 +37,9 @@
 #u360 {
   position:absolute;
   left:0px;
-  top:65px;
-  width:155px;
-  height:166px;
+  top:0px;
+  width:224px;
+  height:231px;
   overflow:hidden;
   background-image:url('../../resources/images/transparent.gif');
 }

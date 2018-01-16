@@ -37,17 +37,17 @@
 #u297 {
   position:absolute;
   left:0px;
-  top:49px;
-  width:129px;
-  height:170px;
+  top:0px;
+  width:232px;
+  height:219px;
   overflow:hidden;
 }
 #u297_state0 {
   position:absolute;
   left:0px;
   top:0px;
-  width:129px;
-  height:170px;
+  width:232px;
+  height:219px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
   -ms-overflow-y:hidden;
@@ -79,9 +79,9 @@ body.a {  background-color:rgba(255, 255, 255, 1);
 #u297.a {
   position:absolute;
   left:0px;
-  top:49px;
-  width:129px;
-  height:170px;
+  top:0px;
+  width:232px;
+  height:219px;
 }
 #u297_state0.a {
   background-color:rgba(255, 255, 255, 0);
